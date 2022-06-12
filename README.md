@@ -11,7 +11,7 @@ Backend: Socket.io, Express.js, Node.js, Typescript
 
 ## Author
 
-Yuri Antishev
+Sampada Salunkhe
 
 ## Start this app on the local machine
 ```bash
